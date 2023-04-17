@@ -36,11 +36,25 @@ img{
 .important_notices{
     background-color: blue;
     padding-left: 25px;
+    height: 100%;
 }
 
 .second_news{
+    margin-top: 10px;
     display: flex;
     justify-content: space-around;
+}
+
+.notice_one{
+    display: flex;
+}
+
+.notice_two{
+    display: flex;
+}
+
+.notice_three{
+    display: flex;
 }
 
 .nav_list ul li:hover{
